@@ -5,7 +5,7 @@
 
 Two people, one big day, and a website to tell you all about it.
 
-This repository holds the digital invitation for the wedding of ** Ankita & Pratik**. It is a simple static site, built with plain HTML, CSS and JavaScript, and hosted free on GitHub Pages. No app to download, no paper to lose. Open the link, and the celebration is right there.
+This repository holds the digital invitation for the wedding of **Ankita & Pratik**. It is a simple static site, built with plain HTML, CSS and JavaScript, and hosted free on GitHub Pages. No app to download, no paper to lose. Open the link, and the celebration is right there.
 
 ## What you'll find on the invite
 
